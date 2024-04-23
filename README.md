@@ -1,6 +1,7 @@
 Olá,sejam bem vindos!
   Sou Flaviana uma desenvolvedora Frontend,apaixonada por tecnologia.
-  Estou sempre me desafiando com novos projetos buscando adquirir mais conhecimentos.
+  Moro em Belo Horizonte-Minas Gerais
+  Minhas metas iniciais são:Criar novos projetos,adquirir e compartilhar conhecimentos.
   
 
 
